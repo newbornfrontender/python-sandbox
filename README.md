@@ -1,2 +1,3 @@
-# python_sandbox
+# python-sandbox
+
 Files to learn Python basics
